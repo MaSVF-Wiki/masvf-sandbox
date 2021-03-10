@@ -2,4 +2,6 @@ Perhaps I can use the Github Desktop app to see what happens when Obsidian-git d
 
 Stay tuned ....
 
-testing continures
+testing continues.
+perhaps we need to look at the logs to see what is happening?
+who knows?
