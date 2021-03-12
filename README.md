@@ -9,4 +9,6 @@ Use double brackets to make links, like to [[AnotherPage]].
 
 If you want more information, see [MaSVF Wiki](https://gracious-joliot-c42220.netlify.app/)
 
+This is Pete, making a new line in Obsidian, during a [[Flotilla Friday]] call.
+
 This is messy new text. Bwahahaha!
