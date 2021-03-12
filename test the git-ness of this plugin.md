@@ -1,3 +1,8 @@
+---
+title: test the git-ness of this plugin
+author: Bill Anderson
+---
+
 ## 2021-03-10 - Bill
 
 Perhaps I can use the Github Desktop app to see what happens when Obsidian-git does its thing?
