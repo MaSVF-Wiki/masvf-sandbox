@@ -26,3 +26,4 @@ I set hotkeys: I'm trying ⌘L for pull, and ⌘U for push.
 -  let's try some added lines (this and one above), maybe now it'll commit
 -  ... nope.  Hmm.
 -  I'll add+commit by hand with my Git client, and push again.  Thus ends Experiment 1.
+-  
