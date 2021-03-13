@@ -16,10 +16,13 @@ I enabled the plugin in Obsidian.
 
 I set hotkeys: I'm trying ⌘L for pull, and ⌘U for push.
 
-### Using
+### Using (Experiment 1)
 
 - yay, ⌘L worked (no updates)
 - created this page, will try to push
 - no joy, maybe I need to `git add .` by hand...
 - ... and maybe even `git commit` by hand?
--  
+-  okay, adding and committing by hand let the plugin do its push
+-  let's try some added lines (this and one above), maybe now it'll commit
+-  ... nope.  Hmm.
+-  I'll add+commit by hand with my Git client, and push again.  Thus ends Experiment 1.
