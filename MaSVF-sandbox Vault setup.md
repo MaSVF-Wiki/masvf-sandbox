@@ -1,9 +1,7 @@
-#### 2021-10-31
+### MaSVF-sandbox wiki: Obsidian Vault setup
+##### Last edit: 2021-03-14
 
-anderbill sets up masvf-sandbox following these steps
-
-Instructions published in [[MaSVF-sandbox Vault setup]]
-
+0. Pre-requisite: a Github account; Obsidian Client installed
 1. Receive and accept Github invite to MaSVF-Wiki/masvf-sandbox repository
 2. In Github Desktop
     - From "Current Repository" window selected "Add" button and selected "Clone repository" from the drop-down menu
@@ -27,4 +25,3 @@ Instructions published in [[MaSVF-sandbox Vault setup]]
 			   Pull updates on startup: ON
 			   Disable push: OFF
 			   
-
