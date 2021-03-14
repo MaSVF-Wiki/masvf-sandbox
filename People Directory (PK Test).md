@@ -1,3 +1,3 @@
 # People
 
-- [[Person - Peter Kaminski]] - OGM, CICOLAB, Flotilla, CSC, FJB
+- [[People/Peter Kaminski]] - OGM, CICOLAB, Flotilla, CSC, FJB
