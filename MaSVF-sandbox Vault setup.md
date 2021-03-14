@@ -20,7 +20,7 @@
        		- Enable Obsidian-Git in the "Installed plugins" list
        		- Select Obsidian-Git in the "PLUGIN OPTIONS" list
        		   Suggested settings:
-			   Vault backup interval (minutes): 17, 19, 23, 29, 31 (?)
+			   Vault backup interval (minutes): 17, 19, 23, 29, 31 (enter a non-zero number)
 			   Message: "YourInitialsHere A vault backup: {{date}}"
 			   Pull updates on startup: ON
 			   Disable push: OFF
