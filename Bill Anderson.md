@@ -6,13 +6,11 @@ full-name: "William L Anderson"
 organizations: 
   - "Open Global Mind"
   - "Collective Sense Commons"
-  - Flotilla
-  - "Free Jerry's Brain"
 phones: 
-  - "+1 650-918-6101"
-short-name: Pete
-sortable-name: "Kaminski, Peter"
-twitter: "@peterkaminski"
+  - "+1 512-560-9753"
+short-name: Bill
+sortable-name: "Anderson, Bill"
+twitter: "@band"
 urls: 
-  - "http://peterkaminski.com/"
+  - "http://about.me/wlanderson/"
 ---
