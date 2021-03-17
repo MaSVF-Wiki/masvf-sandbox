@@ -14,3 +14,6 @@ twitter: "@band"
 urls: 
   - "http://about.me/wlanderson/"
 ---
+# Bill Anderson
+
+(see front matter for details)
