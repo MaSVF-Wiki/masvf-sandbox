@@ -2,7 +2,7 @@
 emails: 
   - band@acm.org
   - wlanderson@gmail.com
-full-name: "William L Anderson"
+full-name: William L Anderson
 organizations: 
   - "Open Global Mind"
   - "Collective Sense Commons"
