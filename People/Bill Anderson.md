@@ -17,7 +17,7 @@ urls:
 # Bill Anderson
 
 ## What about me?
-Retired data informatician (what does that mean?), sociotechnical (what? another big word?) computer systems engineer, and chemist. Open access advocate and inveterate punster.
+A retired data informatician (what does that mean?), sociotechnical (what? another big word?) computer systems engineer, and chemist. Also an open access advocate and inveterate punster.
 
 ## Contact Me
 
