@@ -16,6 +16,9 @@ urls:
 ---
 # Bill Anderson
 
+## What about me?
+Retired data informatician (what is an informatician?), sociotechnical (what? another big word?) computer systems engineer, and chemist. Open access advocate and inveterate punster.
+
 ## Contact Me
 
 Email: band@acm.org
