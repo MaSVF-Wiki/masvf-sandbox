@@ -16,4 +16,15 @@ urls:
 ---
 # Bill Anderson
 
-(see front matter for details)
+## Contact Me
+
+Email: band@acm.org
+
+Alternate email: wlanderson@gmail.com
+
+Phone: +1 512-693-7378
+
+Basic landing page (kinda old): https://about.me/wlanderson
+
+Twitter: [@band](https://twitter.com/band)
+
