@@ -8,3 +8,6 @@
 # Obsidian.md
 .obsidian/*
 !.obsidian/README.md
+
+# Static Jinja Wiki
+.staticjinjawiki
