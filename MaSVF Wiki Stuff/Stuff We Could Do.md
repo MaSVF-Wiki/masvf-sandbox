@@ -11,7 +11,24 @@
     - "more than one way"
     - "interaction models"
 - play with Typora
+
+## Static Jinja Wiki
+
+
 - get [[Static Jinja Wiki]] working with Netlify
+- write up [[Static Jinja Wiki]] how to
+- SJW enhancments
+
+    - special handling for incipient links
+    - backlinks
+    - decent default HTML+CSS layout
+
+## MaSVF Wiki Organization Wikis
+
+* deploy to real URLs
+* move GitHub repos from Pete's account to MaSVF Wiki organization
+* rearrange MaSVF Wiki
+* add content
 
 ## Diagrams
 
