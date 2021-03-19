@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Our Wiki</title>
+  </head>
+  <body>
+    <p>(a page to start collecting how-to-fix tips.  not yet friendly enough for most people.)</p>
+<h2>Pull failed error: Your local changes to the following files would be overwritten by merge</h2>
+<p>This happens when you have changed files on your computer and you do a pull.</p>
+<h3>Strategies for fixing</h3>
+<ol>
+<li>
+<p>Undo all local changes.</p>
+<ol>
+<li>command-line: <code>git checkout .</code></li>
+</ol>
+</li>
+<li>
+<p>Save ("stash") your changes to a temporary location.</p>
+<ol>
+<li>command-line:<ol>
+<li><code>git stash</code></li>
+<li><code>git pull</code></li>
+<li>(deal with any merge conflicts)</li>
+<li><code>git stash pull</code></li>
+<li>(continue with your edits and/or do another pull+push)</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>
+<p>Save your changes to a new branch.</p>
+<ol>
+<li>command-line:<ol>
+<li><code>git checkout -b pk-name-of-new-branch-20210313</code></li>
+<li><code>git switch main</code></li>
+<li><code>git pull</code></li>
+<li>(deal with any merge conflicts)</li>
+<li><code>git switch -</code></li>
+<li><code>git merge main</code></li>
+<li>(continue working on your new branch; later, follow a strategy about merging branches back into main)</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+  </body>
+</html>
