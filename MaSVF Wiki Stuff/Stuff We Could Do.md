@@ -4,4 +4,15 @@
 
 
 - think about .gitignore and Obsidian-Git's tendency to add ALL THE FILES and commit
-- 
+- play with syncing HackMD and GitHub
+    - line breaks
+    - just syncing
+- make lists and diagrams of the various "good" ways you can interact with the wiki and other people via MaSVF
+    - "more than way"
+    - "interaction models"
+- play with Typora
+- get [[Static Jinja Wiki]] working with Netlify
+
+## Diagrams
+
+- "The Sync Loop"
