@@ -14,5 +14,6 @@
 	- Obsidian-Git Plugin, v1.6.1 or higher
 - round-trip syncing with Obsidian and Obsidian-Git
 - i want to use HackMD, so I need to sync a HackMD document with a page in GitHub
-- 
+	- new HackMD document
+	- existing HackMD 
 
