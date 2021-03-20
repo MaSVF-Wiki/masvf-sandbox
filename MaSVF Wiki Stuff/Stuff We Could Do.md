@@ -10,7 +10,7 @@
 - make lists and diagrams of the various "good" ways you can interact with the wiki and other people via MaSVF
     - "more than one way"
     - "interaction models"
-- play with Typora
+- play with Typorafff
 
 ## Static Jinja Wiki
 
