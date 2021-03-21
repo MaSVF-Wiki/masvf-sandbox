@@ -1,5 +1,5 @@
 ### MaSVF-sandbox wiki: Obsidian Vault setup
-##### Last edit: 2021-03-14
+##### Last edit: 2021-03-21
 
 0. Pre-requisite: a Github account; Obsidian Client installed
 1. Receive and accept Github invite to MaSVF-Wiki/masvf-sandbox repository
@@ -21,7 +21,17 @@
        		- Select Obsidian-Git in the "PLUGIN OPTIONS" list
        		   Suggested settings:
 			   Vault backup interval (minutes): 17, 19, 23, 29, 31 (enter a non-zero number)
-			   Message: "YourInitialsHere A vault backup: {{date}}"
-			   Pull updates on startup: ON
+			   Message: "`YourInitialsHere` A vault backup: {{date}}"
+			   Pull updates on startup: OFF
 			   Disable push: OFF
+			   Pull changes before Push: ON
 			   
+		- Select "Settings" icon from the side-bar
+		- Select "Hotkeys" from the general settings list (Apple Mac computers specific)
+             - Set "Obsidian Git: Commit and push all changes with specified message" to CMD-u
+             - Set "Obsidian Git: Pull from remote repository" to CMD-l (lower-case L)
+
+
+
+
+

@@ -6,13 +6,14 @@ full-name: William L Anderson
 organizations: 
   - "Open Global Mind"
   - "Collective Sense Commons"
+  - "Cloud Appreciation Society"
 phones:
   - +1-512-693-7378
 short-name: Bill
 sortable-name: "Anderson, Bill"
 twitter: "@band"
 urls: 
-  - "http://about.me/wlanderson/"
+  - "https://about.me/wlanderson/"
 ---
 # Bill Anderson
 
@@ -21,7 +22,7 @@ A retired data informatician (what does that mean?), sociotechnical (what? anoth
 
 When asked recently about what I value and my interests I responded with "Kindness, curiosity, honesty, and humor. I am interested in learning about, examining, and promoting abundance-based models and ideas of sustainable human societies."
 
-I am also reviewing my first-order learnings as a child on how the world works.
+I am also reviewing my childhood first-order learnings about how the world works.
 
 ## Contact Me
 
