@@ -9,8 +9,8 @@
     - On my Mac I selected the "~/Sites/" directory to install the masvf-sandbox repository
  3. In Obsidian
      - Selected "Open another vault" icon from the sidebar menu
-     - Selected "Open folder as vault" from the pop-up menu, and used "Browse" to select "~/Sites/masvf-sandbox"
-     - This opens this folder as a vault in Obsidian
+     - Selected "Open folder as vault" from the pop-up menu, and used "Browse" to select "~/Sites/masvf-sandbox" (or whatever directory you installed the repository)
+     - This folder opens as a vault in Obsidian
    4. In Obsidian (cont'd)
        - In this new vault (masvf-sandbox)
        - Select the "Settings" icon from the side-bar
@@ -21,7 +21,7 @@
        		- Select Obsidian-Git in the "PLUGIN OPTIONS" list
        		   Suggested settings:
 			   Vault backup interval (minutes): 17, 19, 23, 29, 31 (enter a non-zero number)
-			   Message: "`YourInitialsHere` A vault backup: {{date}}"
+			   Message: "YourInitialsHere A vault backup: {{date}}"
 			   Pull updates on startup: OFF
 			   Disable push: OFF
 			   Pull changes before Push: ON
