@@ -26,3 +26,9 @@ This happens when you have changed files on your computer and you do a pull.
 		5. `git switch -`
 		6. `git merge main`
 		7. (continue working on your new branch; later, follow a strategy about merging branches back into main)
+
+### Removing Repo from GitHub Desktop
+
+You can remove a repo from GitHub Desktop's list of repos.  You can either leave the repo in place, or move it to Trash.
+
+Right-click on the repository in the repository list in GitHub Desktop and select "Remove..."" to remove the repository.  You will have the option of moving the repo to Trash or not.
