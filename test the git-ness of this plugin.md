@@ -26,3 +26,7 @@ https://github.com/MaSVF-Wiki/masvf-sandbox/commits/main
 On your desktop with command-line Git, it would be `git log`. Dunno about GitHub Desktop, though.
 
 *Now "Bad Romance" by On The Rocks, an all-male a cappella group from the University of Oregon.  I note both this song and the last have something to do with "Rocks" -- it's rock music!*
+
+### 2021-03-23
+- easy to commit without any message: `cmd-u` and then click the `...` oh well.
+
