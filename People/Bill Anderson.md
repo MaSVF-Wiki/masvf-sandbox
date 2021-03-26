@@ -12,6 +12,7 @@ phones:
 short-name: Bill
 sortable-name: "Anderson, Bill"
 twitter: "@band"
+discord: "anderbill#9242"
 urls: 
   - "https://about.me/wlanderson/"
 ---
@@ -35,4 +36,7 @@ Phone | SMS: +1 512-693-7378
 Basic landing page (kinda old): https://about.me/wlanderson
 
 Twitter: [@band](https://twitter.com/band)
+
+Discord: anderbill#9242
+
 
