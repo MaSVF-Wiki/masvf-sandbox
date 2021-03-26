@@ -4,7 +4,7 @@ This note summarizes the steps to follow when setting up a new MaSVF Wiki in Obs
 
 1. Clone the MaSVF-Wiki GitHub repository using GitHub Desktop.
 
-2. Add the local MaSVF-Wiki repository directory as a new vault in Obsidian.
+2. Open the local MaSVF-Wiki repository directory as a new vault in Obsidian.
 
 3. In Obsidian install the 'Obsidian Git' community plugin and
 
