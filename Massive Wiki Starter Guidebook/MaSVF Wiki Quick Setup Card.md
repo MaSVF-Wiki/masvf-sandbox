@@ -12,7 +12,7 @@ This note summarizes the steps to follow when setting up a new MaSVF Wiki in Obs
 
 5. Set 'Obsidian Git' HotKeys for Pull 'cmd | crtl L' and Push with message 'cmd | crtl U'
 
-Obsidian is now configured to synchronize your local changes to the wiki with the GitHub repository.
+Obsidian is now configured to synchronize your local changes with the GitHub repository.
 
 Note: To keep 'Obsidian Git' up-to-date, check 'Settings -> Community Plugins'.
 
