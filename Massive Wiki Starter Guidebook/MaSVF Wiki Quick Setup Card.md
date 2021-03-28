@@ -14,5 +14,5 @@ This note summarizes the steps to follow when setting up a new MaSVF Wiki in Obs
 
 Obsidian is now configured to synchronize your local changes with the GitHub repository.
 
-Note: To keep 'Obsidian Git' up-to-date, check 'Settings -> Community Plugins'.
+Note: Keep 'Obsidian Git' up-to-date (it is being updated frequently): check 'Settings -> Community Plugins'.
 
