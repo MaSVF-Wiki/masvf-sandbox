@@ -1,10 +1,10 @@
-# MaSVF Wiki Quick Setup Card
+# Massive Wiki Quick Setup Card
 
-This note summarizes the steps to follow when setting up a new MaSVF Wiki in Obsidian.
+This note summarizes the steps to follow when setting up a new Massive Wiki in Obsidian.
 
-1. Clone the MaSVF-Wiki GitHub repository using GitHub Desktop.
+1. Clone the Massive-Wiki GitHub repository using GitHub Desktop.
 
-2. Open the local MaSVF-Wiki repository directory as a new vault in Obsidian.
+2. Open the local Massive-Wiki repository directory as a new vault in Obsidian.
 
 3. In Obsidian install the 'Obsidian Git' community plugin and
 
