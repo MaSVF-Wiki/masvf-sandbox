@@ -9,7 +9,7 @@ Use double brackets to make links, like to [[AnotherPage]].
 
 If you want more information, see [MaSVF Wiki](https://gracious-joliot-c42220.netlify.app/)
 
-This wiki is centralized at [github:/masvf-wiki/masvf-sandbox](https://github.com/masvf-wiki/masvf-sandbox/).
+This wiki is centralized at [github:/massive-wiki/massive-sandbox](https://github.com/massive-wiki/massive-sandbox/).
 
 This is Pete, making a new line in Obsidian, during a [[Flotilla Friday]] call.
 
