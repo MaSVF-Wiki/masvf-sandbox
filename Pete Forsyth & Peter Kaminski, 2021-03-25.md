@@ -1,6 +1,6 @@
 # Pete Forsyth & Peter Kaminski, 2021-03-25
 
-## MaSVF Wiki
+## Massive Wiki
 - git? markdown?
 - [[Federated Wiki]]
 - and the connection between git and Federated Wiki

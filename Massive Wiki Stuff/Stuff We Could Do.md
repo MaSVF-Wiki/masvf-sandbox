@@ -7,7 +7,7 @@
 - play with syncing HackMD and GitHub
     - line breaks
     - just syncing
-- make lists and diagrams of the various "good" ways you can interact with the wiki and other people via MaSVF
+- make lists and diagrams of the various "good" ways you can interact with the wiki and other people via Massive
     - "more than one way"
     - "interaction models"
 - play with Typora
@@ -24,11 +24,11 @@
     - backlinks
     - decent default HTML+CSS layout
 
-## MaSVF Wiki Organization Wikis
+## Massive Wiki Organization Wikis
 
 * deploy to real URLs
-* move GitHub repos from Pete's account to MaSVF Wiki organization
-* rearrange MaSVF Wiki
+* move GitHub repos from Pete's account to Massive Wiki organization
+* rearrange Massive Wiki
 * add content
 
 ## Diagrams

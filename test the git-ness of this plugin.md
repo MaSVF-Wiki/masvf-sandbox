@@ -21,7 +21,7 @@ No, the Github Desktop logs do not seem to be a place that captures everything t
 
 One place to look for logs is on GitHub:
 
-https://github.com/MaSVF-Wiki/masvf-sandbox/commits/main
+https://github.com/Massive-Wiki/massive-sandbox/commits/main
 
 On your desktop with command-line Git, it would be `git log`. Dunno about GitHub Desktop, though.
 

@@ -1,7 +1,7 @@
 ## Wikis
-- MaSVF Wiki
-- MaSVF Example
-- MaSVF Sandbox
+- Massive Wiki
+- Massive Example
+- Massive Sandbox
 - OGM Wiki
 - (private wiki)
 - Flotilla Wiki

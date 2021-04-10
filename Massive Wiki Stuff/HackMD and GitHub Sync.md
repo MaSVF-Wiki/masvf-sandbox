@@ -1,6 +1,6 @@
 # HackMD and GitHub Sync
 
-A HackMD note can be connected to a GitHub file, making it possible to do realtime collaborative editing on a MaSVF wiki page that's centralized at GitHub. Yay!
+A HackMD note can be connected to a GitHub file, making it possible to do realtime collaborative editing on a Massive wiki page that's centralized at GitHub. Yay!
 
 Access the "Versions and GitHub Sync" dialog from the three-dot menu in the upper right toolbar area.
 
