@@ -14,7 +14,7 @@
 
 ## Resources
 
-- [Trusting Everybody to Work Together · Wikipedia @ 20](https://wikipedia20.pubpub.org/pub/forsyth/release/7)
+- [Trusting Everybody to Work Together · Wikipedia @ 20](https://wikipedia20.pubpub.org/pub/forsyth/release/7) or [Signpost version](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2020-04-26/Opinion)
 	- useful for anybody designing a collaborative tool
 - article about Jack Herrick and wikiHow
 - [Federated vs. / tie between Non-Federated Wiki](http://pete.dojo.fed.wiki/view/welcome-visitors/view/federated-vs-non-federated)
