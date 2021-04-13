@@ -1,0 +1,1 @@
+This page is a place to collect ideas and links that can illuminate how cultural and educational institutions can benefit by engaging with Wikipedia and other wikis.
