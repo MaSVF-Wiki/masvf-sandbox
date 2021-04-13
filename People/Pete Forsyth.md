@@ -13,3 +13,4 @@ I am interested in the ways that wiki and collaborative software can help people
 
 [More about me](https://wikistrategies.net/pete-forsyth)
 [My Wikipedia page](https://en.wikipedia.org/wiki/User:Peteforsyth)
+[[Wikipedia, GLAM and education]]
