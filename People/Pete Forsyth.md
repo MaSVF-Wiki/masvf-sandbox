@@ -19,4 +19,4 @@ I am interested in the ways that wiki and collaborative software can help people
 == My projects here ==
 I'm just getting my bearings, but I am thinking about writing about/discussing the ways Wikipedia can benefit traditional cultural and educational institutions, and (mostly separately) the history/culture of the wiki world.
 
-Less formal/relevant, I've talked with Pete K. about my desire to set up some home network services; I have some [notes on this on my Federated Wiki page](http://pete.dojo.fed.wiki/view/server-plans).
+Less formal/relevant, I've talked with Pete K. about my desire to set up some home network services; I have some [notes on this on my Federated Wiki page](http://pete.dojo.fed.wiki/view/server-plans). (Leaning toward TrueNAS Core instead of NextCloud.)
