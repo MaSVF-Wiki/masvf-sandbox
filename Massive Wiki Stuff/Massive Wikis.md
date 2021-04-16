@@ -1,10 +1,16 @@
 ## Wikis
-- Massive Wiki
-- Massive Example
-- Massive Sandbox
-- OGM Wiki
-- (private wiki)
-- Flotilla Wiki
+- [Massive Wiki](https://github.com/Massive-Wiki/massive-wiki/) - main "home" of Massive Wiki
+- [Massive Wiki Starter](https://github.com/Massive-Wiki/massive-wiki-starter) - just the files you need to get started with MaSVF Wiki
+- [Massive Sandbox](https://github.com/Massive-Wiki/massive-sandbox) - main developer sandbox for now
+- [Massive Example](https://github.com/Massive-Wiki/massive-example) - a simple example, not very interesting
+- [OGM Wiki](https://github.com/openglobalmind/ogm-wiki) - OGM community wiki
+- [Flotilla Wiki](https://github.com/Flotilla-Tools-for-Connectors/Flotilla-Wiki) - Flotilla community wiki
+
+another list:
+- massive.wiki - main "home" of Massive Wiki
+- docs.massive.wiki - documentation for users, developers
+- developer.massive.wiki - documentation+community for developers
+- community.massive.wiki - main Massive Wiki community
 
 ## Use Cases Chunks
 
