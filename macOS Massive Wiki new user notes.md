@@ -35,7 +35,7 @@
 			  - select the small 'copy' icon next to the new generated token and paste that text into an open Textedit (or other editor) window. Save this file.
 			  - (I also take a screen snapshot of the window with the token for a backup)
 
-     - The final steps involve adding information to the ```.gitconfig ``` file and creating a ```git-credentials``` file to hold the personal access token just generated.
+     - The final steps involve adding information to the ```.gitconfig ``` file and creating a ```.git-credentials``` file to hold the personal access token just generated.
 
   - Setting up git credentials for Massive Wiki use.
        First Open a Terminal window (Terminal is found in the /Applications/Utilities/ directory)
@@ -44,7 +44,7 @@
  $ ls .gitconfig
 ```
  - will print the file name ".gitconfig" if it exists
-- Use the git commands to set up using the personal access key
+- Use the git commands to set up using the personal access key (this command says we will store our credentials in a local file)
 ```
  $ git config --global credential.helper store
 ```
