@@ -8,8 +8,8 @@
 
 another list:
 - massive.wiki - main "home" of Massive Wiki
-- docs.massive.wiki - documentation for users, developers
-- developer.massive.wiki - documentation+community for developers
+- ~~docs.massive.wiki - documentation for users, developers~~
+- developer.massive.wiki - documentation+community for developers (perhaps Massive Sandbox, renamed)
 - community.massive.wiki - main Massive Wiki community
 
 ## Use Cases Chunks
