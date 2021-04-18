@@ -1,6 +1,6 @@
 # Massive Wiki Quick Setup Card
 
-This note summarizes the steps to follow when setting up a new Massive Wiki in Obsidian.
+This note summarizes the steps to follow when setting up a new Massive Wiki using Obsidian.
 
 1. Clone the Massive-Wiki GitHub repository using GitHub Desktop.
 
@@ -10,7 +10,7 @@ This note summarizes the steps to follow when setting up a new Massive Wiki in O
 
 4. Enable the 'Obsidian Git' plugin and
 
-5. Set 'Obsidian Git' HotKeys for Pull 'cmd | crtl L' and Push with message 'cmd | crtl U'
+5. Set 'Obsidian Git' HotKeys for "Commit and Push all changes with message" to 'cmd | crtl U'; and "Pull from remote repository" to 'cmd | crtl L' .
 
 Obsidian is now configured to synchronize your local changes with the GitHub repository.
 
