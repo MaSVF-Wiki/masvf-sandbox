@@ -29,7 +29,7 @@ Career:
 
 Interests:
  - Bitcoin
- - Photography
+ - Photography and some videos
  - Personal Knowledge Management
 
 
