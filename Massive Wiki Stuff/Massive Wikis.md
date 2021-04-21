@@ -1,6 +1,6 @@
 ## Wikis
 - [Massive Wiki](https://github.com/Massive-Wiki/massive-wiki/) - main "home" of Massive Wiki
-- [Massive Wiki Starter](https://github.com/Massive-Wiki/massive-wiki-starter) - just the files you need to get started with MaSVF Wiki
+- [Massive Wiki Starter](https://github.com/Massive-Wiki/massive-wiki-starter) - just the files you need to get started with Massive Wiki
 - [Massive Sandbox](https://github.com/Massive-Wiki/massive-sandbox) - main developer sandbox for now
 - [Massive Example](https://github.com/Massive-Wiki/massive-example) - a simple example, not very interesting
 - [OGM Wiki](https://github.com/openglobalmind/ogm-wiki) - OGM community wiki
