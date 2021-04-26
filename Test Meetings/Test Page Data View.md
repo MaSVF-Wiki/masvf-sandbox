@@ -7,7 +7,7 @@ This test index page uses the **Data View** plugin for Obsidian. When you go to 
 Table of all from a Folder with a specific series sorted descending date
 	note: this involves a hack to rename the first column from the default of "File". Use Group By and then reference the fields as "rows" eliminates the column named "File" and then the link is manually aded back in.
 
-### Thursday OGM (series) Calls by Date:
+### Thursday OGM (series) Calls by Date (desc):
 ```dataview
 table
 rows.file.link as "Meeting",
@@ -24,7 +24,7 @@ group by file.path
 ***
 Table of all with a specific file name "Meeting" (does not have to be in a specific  folder) sorted descending date 
 
-### All OGM Calls:
+### All OGM Calls by  Date (desc):
 ```dataview
 table
 meeting-series as "Meeting Series",
@@ -39,7 +39,7 @@ sort date desc
 ***
 Table of all within two different folders  sorted descending date (does not care about file name)
 
-### All OGM Calls:
+### All OGM Calls by Date (desc):
 ```dataview
 table
 meeting-series as "Meeting Series",
