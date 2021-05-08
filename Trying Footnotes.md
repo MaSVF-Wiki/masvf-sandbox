@@ -5,7 +5,7 @@ This page has two footnotes in extended Markdown syntax.
 Does your viewer render them as footnotes?
 
 - Obsidian v0.12.2: yes
-- Massive Wiki Builder v1.3.0: no
+- Massive Wiki Builder v1.3.1: yes
 
 ## Two Footnotes Are Referred To
 
