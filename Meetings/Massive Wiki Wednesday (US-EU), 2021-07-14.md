@@ -1,4 +1,4 @@
-# Massive Wiki Wednesday, 2021-07-14
+# Massive Wiki Wednesday (US-EU), 2021-07-14
 
 ## Topics
 
