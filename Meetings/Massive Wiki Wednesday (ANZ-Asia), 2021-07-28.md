@@ -92,7 +92,7 @@
 ## Opal
 
 - Ionic (Electron, Web)
-- Editor: MCEditor, CK Edit, Quill, ?
+- Editor: MCEditor, CK Edit, Quill, SlateJS (used by Netlify CMS)?
 - Git client
 
 
