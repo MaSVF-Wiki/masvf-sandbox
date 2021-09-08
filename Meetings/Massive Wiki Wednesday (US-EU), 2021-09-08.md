@@ -44,3 +44,75 @@ Idea: if a page has changed since you've linked to it, the _link_ should tell yo
 What are the use cases for page maturity.
 
 A tree metaphor might make people think pages grow by themselves, rather than by people working on it.
+
+## Zoom Chat
+
+[[riamir]]
+
+> is there a way to have a header *look* temporary?
+
+[[Erik Willekens]]
+
+> that exists in trello for cards
+
+riamir
+
+> thx
+
+> trees + mycorrhizal network?
+
+[[Bill Anderson]]
+
+> i have been thinking more about “free association” relationships among chunks
+
+riamir
+
+> #tree-saplingpage
+
+Bill Anderson
+
+> my poodle Zander is demanding attention here
+
+> Bear uses tags for organization so you can have tags like #science/climate
+
+riamir
+
+> To extend the metaphor, this book might be useful: Entangled Life, Merlin Sheldrake
+
+> https://dublincore.org/
+
+Bill Anderson
+
+> for me vocabularies are fuzzy - gets me into trouble all the time (how did i ever become a chemist?)
+
+riamir
+
+> ^+1 (except the chemist part)
+
+[[Simon Grant]]
+
+> Very old convention from early in the web: work in progress...
+
+riamir
+
+> #PageQualities
+
+Simon Grant
+
+> "Shibboleth"
+
+Bill Anderson
+
+> how to tell a joke - it’s not all about timing
+
+> when GPT-3 starts writing wikis
+
+[[Peter Kaminski]]
+
+> vnc://18.222.30.191:5900
+
+riamir
+
+> horizons, not boundaries
+
+> inclusion and trust
