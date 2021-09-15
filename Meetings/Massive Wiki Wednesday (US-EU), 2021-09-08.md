@@ -1,10 +1,13 @@
 # Massive Wiki Wednesday (US-EU), 2021-09-08
 
 Hashtags: #SaplingPage #EarlyDraft #MeetingNotes (not yet a #MightyOakPage)
+
 Other hashtags: #TreeMaturitySapling or #TreeSapling or #PageMaturitySapling
+
 CategoryLinks: [[SaplingPage]]
 
 Other "page" hashtags:
+
 - PageMaturity
 - PageType
 - PageAuthor
