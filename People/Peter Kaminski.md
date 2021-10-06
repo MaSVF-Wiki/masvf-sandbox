@@ -52,3 +52,9 @@ Twitter: [@peterkaminski](https://twitter.com/peterkaminski)
 
 - making a change on a call.
 
+```python
+import sys
+
+print(sys.stdin())
+```
+
