@@ -1,4 +1,4 @@
-# Massive Wiki Wednesday (US/EU), 2021-11-17
+# Massive Wiki Wednesday (US-EU), 2021-11-17
 
 ## Topics
 
