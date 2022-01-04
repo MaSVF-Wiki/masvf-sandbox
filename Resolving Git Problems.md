@@ -33,7 +33,7 @@ This happens when you have changed files on your computer and you do a pull.
 		1. `git stash`
 		2. `git pull`
 		3. (deal with any merge conflicts)
-		4. `git stash pull`
+		4. `git stash pop`
 		5. (continue with your edits and/or do another pull+push)
 
 3. Save your changes to a new branch.
